@@ -29,5 +29,5 @@
 <br>
 
 
-<h4><strong>Used technologies: </strong> React JS (React Hooks, React Router, React.lazy()), Firebase, Axios, RegEx, Bootstrap4, HTML, CSS.  </h4>
+<h4><strong>Used technologies: </strong> HTML, CSS ( Flexbox )  </h4>
 <h3>Netlify Link: https://keen-saha-a66792.netlify.com</h3>
