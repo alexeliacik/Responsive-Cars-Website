@@ -30,4 +30,4 @@
 
 
 <h4><strong>Used technologies: </strong> HTML, CSS ( Flexbox )  </h4>
-<h3>Netlify Link: https://keen-saha-a66792.netlify.com</h3>
+<h3>Netlify Link: https://hungry-murdock-b6f0a9.netlify.com/index.html</h3>
